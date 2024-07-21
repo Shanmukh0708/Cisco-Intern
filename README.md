@@ -30,7 +30,7 @@ This repository contains the necessary files and documentation for the Campus Cy
 
 ### Campus Network Topology Screenshots
 
-Here are the visual representations of the campus network topology as designed in Cisco Packet Tracer, located in the `screenshots` folder.
+Here are the visual representations of the campus network topology as designed in Cisco Packet Tracer, located in the `SNAPS` folder.
 
 #### Screenshot 1: Main Server Room
 
